@@ -148,7 +148,6 @@ while True:
 
     clear_output(wait=True)
     display(img)
-image_path = r"C:\Users\admin\Documents\AAI\dataset\Deepika R(212223230038)\3.jpeg"
 
 img = cv2.imread(image_path)
 
