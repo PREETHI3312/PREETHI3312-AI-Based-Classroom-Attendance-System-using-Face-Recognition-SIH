@@ -50,11 +50,11 @@ This system uses **Face Recognition technology** to automate classroom attendanc
 ---
 
 ## Program Output
-<img width="629" height="511" alt="image" src="https://github.com/user-attachments/assets/b61ebbb7-02d8-499a-8f89-cf79f31ddc6d" />
+<img width="421" height="637" alt="image" src="https://github.com/user-attachments/assets/06b8b75d-bff7-4df1-b2bc-b05b902bf889" />
 
-<img width="835" height="614" alt="image" src="https://github.com/user-attachments/assets/f8cff9cf-6f64-49dd-ae0c-e181a9ed1738" />
+<img width="392" height="593" alt="image" src="https://github.com/user-attachments/assets/a47c8b12-7850-4221-9039-9ff2a3408563" />
 
-<img width="486" height="108" alt="image" src="https://github.com/user-attachments/assets/da057cce-45ba-4a7e-ba6e-592d2554950d" />
+<img width="848" height="176" alt="image" src="https://github.com/user-attachments/assets/a5c62b27-9ba3-44b7-9171-9357e520e762" />
 
 ### Result
 The AI-based classroom attendance system was successfully developed and tested. The system accurately detects and recognizes student faces from both images and live camera feeds and automatically marks attendance as Present or Absent.
